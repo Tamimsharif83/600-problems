@@ -6,4 +6,4 @@ const rooms=3;
 const stdytime=7;
 const total=43;
 
-// console.log("Birth Year:", birthyear);
+// console.log("My Birth Year:", birthyear);
