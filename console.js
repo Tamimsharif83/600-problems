@@ -1,0 +1,14 @@
+const age=21;
+console.log(age);
+const booksToRead=5;
+console.log(booksToRead);
+const wakeUpTime='7.00 am';
+console.log(wakeUpTime);
+const waste=5;
+console.log(waste);
+const borrow=1000;
+console.log(borrow);
+const goal=3;
+console.log(goal);
+const pillow =2;
+console.log(pillow);
