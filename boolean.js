@@ -1,0 +1,16 @@
+const isHappy=false;
+console.log(isHappy);
+const crushMsg=false;
+console.log(crushMsg);
+const celebrating=true;
+console.log(celebrating);
+const isHungry=true;
+console.log(isHungry);
+const hasMoney=false;
+console.log(hasMoney);
+const isStudyDone=false;
+console.log(isStudyDone);
+const isphonecharged=false;
+console.log(isphonecharged);
+const isDinnerDone=false;
+console.log(isDinnerDone);
