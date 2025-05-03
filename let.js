@@ -1,0 +1,23 @@
+let age=34;
+age=45;
+console.log(age);
+let pocketMoney=500;
+pocketMoney=150;
+console.log(pocketMoney);
+let studyTime=4;
+studyTime=1;
+console.log(studyTime);
+let friendcircle=3;
+friendcircle=3-2;
+console.log(friendcircle);
+let phoneprize=25000;
+phoneprize=12000;
+console.log(phoneprize);
+let chaircount=40;
+chaircount=40-2;
+chaircount=chaircount-6;
+console.log(chaircount);
+let playtime=3;
+playtime=0;
+console.log(playtime);
+
