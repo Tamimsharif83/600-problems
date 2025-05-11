@@ -21,7 +21,7 @@ else
 //3
 const dailyRun=5;
 if(dailyRun>=5)
-    console.log("take Your Chocolate!!");
+    console.log("take Your Chocolate!!")
 else{
     console.log("Tor vuri mota!!");
 }
