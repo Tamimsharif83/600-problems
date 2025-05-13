@@ -1,2 +1,2 @@
-const variableX=15;
-// const variableY="20";
+const oddArray=[11,13,15,17,19,21,23,25,27,29,31];
+console.log(oddArray);
