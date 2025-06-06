@@ -18,3 +18,4 @@ const book=['lala','bala','kala'];
 book.shift();
 console.log(book);
 //5
+ 

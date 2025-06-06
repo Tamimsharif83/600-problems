@@ -20,3 +20,4 @@ console.log(color);
 const capitalOfCountry=['dhaka','dilhi','islamabad','abudhabi','jedda'];
 console.log(capitalOfCountry);
 //7
+
