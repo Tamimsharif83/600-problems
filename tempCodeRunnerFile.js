@@ -1,1 +1,1 @@
-Total Sum=
+screenSize
